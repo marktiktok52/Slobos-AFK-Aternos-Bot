@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "FARLIGHT.aternos.me",
+    "ip": "butterfish.aternos.host",
     "port": 43273,
     "version": "",
     "try-creative": false
